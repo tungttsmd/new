@@ -465,7 +465,7 @@ while true; do
     echo -e "${BLUE}────────────────────────────────────────────────${NC}"
     echo -e "  ${CYAN}${BOLD}1.${NC} Kiểm tra trạng thái cài đặt hệ thống"
     echo -e "  ${CYAN}${BOLD}2.${NC} Cài đặt phần mềm (Quét theo thư mục con)"
-    echo -e "  ${CYAN}${BOLD}3.${NC} Đẩy mã nguồn lên Git (Push to Production) ${GREEN}${BOLD}[MỚI]${NC}"
+    echo -e "  ${CYAN}${BOLD}3.${NC} Đẩy mã nguồn lên Git (Push to Production)"
     echo -e "  ${RED}${BOLD}4.${NC} Thoát chương trình"
     echo -e "${BLUE}────────────────────────────────────────────────${NC}"
     echo -e -n "👉 Nhập lựa chọn của bạn (1-4): "
