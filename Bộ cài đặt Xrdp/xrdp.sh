@@ -26,7 +26,7 @@ print_banner() {
     echo "║              -- DevServerTP --                 ║"
     echo "║                                                ║"
     echo "╚════════════════════════════════════════════════╝"
-    echo "- Ngày cập nhật: 16/05/2026
+    echo "- Ngày cập nhật: 16/05/2026"
     echo -e "${NC}"
 }
 
